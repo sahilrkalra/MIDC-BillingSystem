@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string-array name="options">
+        <item>Gas Bill</item>
+        <item>Water Bill</item>
+        <item>Electricity Bill</item>
+    </string-array>
+</resources>
